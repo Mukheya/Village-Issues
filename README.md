@@ -1,4 +1,4 @@
 # Village-Issues
-Bad Road condition
-Bad Drain Condition
+to resolve bad road condition
+to solve bad Drain Condition
 Temple and Mosque renovation
